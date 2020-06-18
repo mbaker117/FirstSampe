@@ -1,2 +1,2 @@
-#Sample App
-this is an sample app only.
+#SampleApp
+this is a sample app only.
