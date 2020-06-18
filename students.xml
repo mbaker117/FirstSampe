@@ -26,4 +26,15 @@
         <firstName>Abdallah</firstName>
         <lastName>Bustami</lastName>
     </student>
+	 <student id="20160503">
+        <avg>88.0</avg>
+        <courses>
+            <course id="bb">
+                <description>oop2</description>
+                <name>C#</name>
+            </course>
+        </courses>
+        <firstName>Abdallah</firstName>
+        <lastName>Bustami</lastName>
+    </student>
 </students>
