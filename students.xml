@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<students>
+    <student id="20160073">
+        <avg>55.0</avg>
+        <courses>
+            <course id="aa">
+                <description>oop</description>
+                <name>C++</name>
+            </course>
+            <course id="bb">
+                <description>oop2</description>
+                <name>C#</name>
+            </course>
+        </courses>
+        <firstName>Mohammed</firstName>
+        <lastName>Baker</lastName>
+    </student>
+    <student id="20160503">
+        <avg>88.0</avg>
+        <courses>
+            <course id="bb">
+                <description>oop2</description>
+                <name>C#</name>
+            </course>
+        </courses>
+        <firstName>Abdallah</firstName>
+        <lastName>Bustami</lastName>
+    </student>
+</students>
